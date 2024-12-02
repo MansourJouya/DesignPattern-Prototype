@@ -3,13 +3,13 @@
 This repository showcases an implementation of the Prototype design pattern in C#. The code demonstrates how to create new objects by copying existing ones, which is useful for efficiently duplicating objects that are resource-intensive to create from scratch. This pattern ensures that cloned objects can be modified independently of the original object.
 
 ## Table of Contents
-1. Introduction
-2. Implementation Overview
-3. Installation
-4. Usage
-5. Contributing
-6. License
-7. Contact
+1. [Introduction](#introduction)
+2. [Implementation Overview](#implementation-overview)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
 
 ## Introduction
 The Prototype design pattern is a creational pattern that involves creating a new object by copying an existing object, thus providing a way to create complex objects without needing to initialize them from scratch. This pattern is particularly useful when object creation is costly or when multiple variations of an object need to be created based on a similar structure.
@@ -51,8 +51,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE file](LICENSE.txt) for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
-For any inquiries, feel free to reach out at jouya.m@gmail.com.
-
+For any inquiries, feel free to reach out at
